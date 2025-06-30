@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Hellstorm Reign](https://store.steampowered.com/app/2364700/Hellstorm_Reign/)
 
-- 🌱 I’m currently learning **DirectX Grapichs API**
+- 🌱 I’m currently learning **Vulkan Grapichs API**
 
 - 📫 How to reach me **keklikbaran91@gmail.com**
 
